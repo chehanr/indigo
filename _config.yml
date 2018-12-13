@@ -1,9 +1,9 @@
 # main text of home
-name: chehanr
-bio: Hey!... I moved to GitHub pages
+name: Chehan Ratnasiri
+bio: chehanr's personal webspace.
 
 # twitter summary info
-description: chehanr's personal GitHub page. 
+description: chehanr's personal webspace. 
 
 # if it's an external image, update below for true
 # better with square images
@@ -41,7 +41,7 @@ instagram: chehanr
 # pinterest: mypinterest
 linkedin: chehanr
 # youtube: myyoutube
-# spotify: myspotify
+spotify: 22ipl2w2udlk4kcuary6xdeka
 github: chehanr
 lastfm: chehanr
 # stackoverflow: 7044681/mystackoverflow
@@ -73,7 +73,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false
 blog: true
 
 # do you want to show the "read time" of the posts?
